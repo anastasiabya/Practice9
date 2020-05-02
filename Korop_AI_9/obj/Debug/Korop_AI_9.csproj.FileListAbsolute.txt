@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Korop_AI_9\Korop_AI_9\bin\Debug\Korop_AI_9.exe.config
+C:\Users\User\source\repos\Korop_AI_9\Korop_AI_9\bin\Debug\Korop_AI_9.exe
+C:\Users\User\source\repos\Korop_AI_9\Korop_AI_9\bin\Debug\Korop_AI_9.pdb
+C:\Users\User\source\repos\Korop_AI_9\Korop_AI_9\obj\Debug\Korop_AI_9.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Korop_AI_9\Korop_AI_9\obj\Debug\Korop_AI_9.Properties.Resources.resources
+C:\Users\User\source\repos\Korop_AI_9\Korop_AI_9\obj\Debug\Korop_AI_9.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Korop_AI_9\Korop_AI_9\obj\Debug\Korop_AI_9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Korop_AI_9\Korop_AI_9\obj\Debug\Korop_AI_9.exe
+C:\Users\User\source\repos\Korop_AI_9\Korop_AI_9\obj\Debug\Korop_AI_9.pdb
+C:\Users\User\source\repos\Korop_AI_9\Korop_AI_9\obj\Debug\Korop_AI_9.Form1.resources
